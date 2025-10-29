@@ -15,7 +15,7 @@ STEP 3:Apply data visualization techniques to identify the patterns of the data.
 
 STEP 4:Apply the various data visualization tools wherever necessary.
 
-STEP 5:Include Necessary parameters in each functions.
+STEP 5:Include Necessary parameters in each functions. 
 
 # Coding and Output:
 
